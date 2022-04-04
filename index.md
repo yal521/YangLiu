@@ -19,8 +19,8 @@ I am an awesome student at Lehigh, you should hire me!
 _**[Natural language processing 10-Ks to identify risks](10k_nlp_covid)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+_**[Python exercises](untitled)**_
+---
 
 ---
 
