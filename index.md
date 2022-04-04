@@ -7,7 +7,7 @@ I am an awesome student at Lehigh, you should hire me!
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="<img width="225" alt="image" src="https://user-images.githubusercontent.com/98285249/161557509-f803ae2c-e864-4c05-a6e4-f378138d4660.png">">
+  <img class="img-circle" src="<img width="225" alt="image" src="https://user-images.githubusercontent.com/98285249/161557509-f803ae2c-e864-4c05-a6e4-f378138d4660.png">
 </p>
 
 ---
