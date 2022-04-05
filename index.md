@@ -6,7 +6,7 @@ Expected graduation: August 2022
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/yal521/YangLiu/blob/master/images/YangLiu.jpeg"
+  <img class="img-circle" src="https://github.com/yal521/YangLiu/blob/master/images/6391649079771_.pic.jpg"
 width="50%">
 </p>
 
