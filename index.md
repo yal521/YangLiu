@@ -1,6 +1,7 @@
 ## Welcome
 
 I am a graduate student at Lehigh University studying MBA Business Analytics Concentration.
+
 Expected graduation: August 2022
 
 <!-- Upload your own photo and change the path -->
@@ -12,7 +13,7 @@ width="50%">
 
 ---
 
-## Midterm Projects
+## Projects
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
