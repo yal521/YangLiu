@@ -6,7 +6,7 @@ Expected graduation: August 2022
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/yal521/YangLiu/blob/master/images/6391649079771_.pic.jpg"
+  <img class="img-circle" src="https://github.com/yal521/YangLiu/blob/master/images/YangLiu.jpeg"
 width="50%">
 </p>
 
@@ -18,47 +18,49 @@ width="50%">
 
 _**[Natural language processing 10-Ks to identify risks](10k_nlp_covid)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-_**[Python exercises](untitled)**_
+ Used Python to get the 10-k file from website and parse the text files to find risks
+ 
+ Used pandas to analysis dataset and visualized results by Seaborn and Matplotlib
+
 ---
 <img width="440" alt="image" src="https://user-images.githubusercontent.com/98285249/160140703-f1fcd52e-7c9a-4f85-a3a7-a06e6bb28ef3.png">
 <img width="558" alt="image" src="https://user-images.githubusercontent.com/98285249/160135274-6e60d4d4-57ed-49a3-a12a-4c3efe534407.png">
----
- ---
- layout: wide_default
- ---    
+<img width="558" alt="image" src="https://user-images.githubusercontent.com/98285249/160133845-c905ff2a-9035-42b6-9281-2042036ed1d2.png">
+
+
   
 _**[Regression Practice](Regression_practice)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+Practice how to understand original data set and build data fit regression model
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img width="851" alt="image" src="https://user-images.githubusercontent.com/98285249/161793059-0d3a1a80-e576-47b4-92c6-0a5a16b62dd8.png">
 
----
-
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Consulting Projects](/pdf/sample_presentation.pdf)**_  
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Project 1: helped client to understand whether small firms is target customer or not
+
+Project 2: helped client to find best fit companies for acquisition
+
+<img width="979" alt="image" src="https://user-images.githubusercontent.com/98285249/161794648-37a2669a-4578-4734-a4e1-a0e22445ea90.png">
+
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
+Data analyst
 
-Sell yourself!
+<img width="723" alt="image" src="https://user-images.githubusercontent.com/98285249/161795375-d3f9ba74-788e-4903-af26-f3a891ccdf1b.png">
+
 
 ---
 
-## Hobbies
+## Skills
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+MS Excel, Python, R, and Google Analytics
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
