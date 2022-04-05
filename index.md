@@ -1,18 +1,18 @@
-## About Me
+## Welcome
 
-My name is Yang. This is my personal website and show cases some of my recent projects.
-
-I am an awesome student at Lehigh, you should hire me!
+I am a graduate student at Lehigh University studying MBA Business Analytics Concentration.
+Expected graduation: August 2022
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="<img width="225" alt="image" src="https://user-images.githubusercontent.com/98285249/161557509-f803ae2c-e864-4c05-a6e4-f378138d4660.png">
+  <img class="img-circle" src="https://github.com/yal521/YangLiu/blob/master/images/YangLiu.jpeg"
+width="50%">
 </p>
 
 ---
 
-## Portfolio
+## Midterm Projects
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
@@ -21,7 +21,8 @@ _**[Natural language processing 10-Ks to identify risks](10k_nlp_covid)**_
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 _**[Python exercises](untitled)**_
 ---
-
+<img width="440" alt="image" src="https://user-images.githubusercontent.com/98285249/160140703-f1fcd52e-7c9a-4f85-a3a7-a06e6bb28ef3.png">
+<img width="558" alt="image" src="https://user-images.githubusercontent.com/98285249/160135274-6e60d4d4-57ed-49a3-a12a-4c3efe534407.png">
 ---
  ---
  layout: wide_default
