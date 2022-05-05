@@ -40,15 +40,24 @@ Practice how to understand original data set and build data fit regression model
 
 _**[Consulting Projects](/pdf/us-eri-renewable-energy-outlook-2022.pdf)**_  
 
-(1) ESG has a positive impact on corporate profitability 
-(2) Among different ESG factors, governance category has the most significant impact on corporate finance performance 
-(3) The Paris Agreement event has a positive impact on financial performance as it relates to ESG ratings 
-(4) ESG factors have a significant correlation with corporate credit risks, which are measured by credit ratings 
+Project 1: helped client to understand whether small firms is target customer or not
 
-<img width="535" alt="image" src="https://user-images.githubusercontent.com/98285249/166948963-2212dd35-57d5-4797-ae03-41b1a930eec6.png">
+Project 2: helped client to find best fit companies for acquisition
+
+<img width="979" alt="image" src="https://user-images.githubusercontent.com/98285249/161794648-37a2669a-4578-4734-a4e1-a0e22445ea90.png">
 
 
 ---
+
+_**[ESG Projects](/pdf/analysis_report-3.pdf)**_  
+
+Using Bloomberg Terminal to build raw data
+Using python to do the relation analysis between ESG score and financial performance
+
+<img width="537" alt="image" src="https://user-images.githubusercontent.com/98285249/166950155-6bc6a910-c5b0-4682-b8f3-f2962e136870.png">
+
+---
+
 
 ## Career Objectives
 
