@@ -4,7 +4,7 @@ I am a graduate student at Lehigh University studying MBA Business Analytics Con
 
 Expected graduation: August 2022
 
-<!-- Upload your own photo and change the path -->
+<!-- Upload your own photo and change the path --> 
 
 <p style="text-align:center;">
   <img class="img-circle" src="https://raw.githubusercontent.com/yal521/YangLiu/master/images/YangLiu.jpeg"
@@ -29,7 +29,7 @@ _**[Natural language processing 10-Ks to identify risks](10k_nlp_covid)**_
 
 
   
-_**[Regression Practice](Regression_practice)**_
+_**[Regression Practice](analysis_report)**_
 
 Practice how to understand original data set and build data fit regression model
 
