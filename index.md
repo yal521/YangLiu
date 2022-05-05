@@ -40,6 +40,7 @@ Practice how to understand original data set and build data fit regression model
 _**[ESG Projects](/pdf/analysis_report-3.pdf)**_  
 
 Using Bloomberg Terminal to build raw data
+
 Using python to do the relation analysis between ESG score and financial performance
 
 <img width="537" alt="image" src="https://user-images.githubusercontent.com/98285249/166950155-6bc6a910-c5b0-4682-b8f3-f2962e136870.png">
