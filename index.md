@@ -35,6 +35,14 @@ Practice how to understand original data set and build data fit regression model
 
 <img width="851" alt="image" src="https://user-images.githubusercontent.com/98285249/161793059-0d3a1a80-e576-47b4-92c6-0a5a16b62dd8.png">
 
+---
+
+_**[ESG Projects](/pdf/analysis_report-3.pdf)**_  
+
+Using Bloomberg Terminal to build raw data
+Using python to do the relation analysis between ESG score and financial performance
+
+<img width="537" alt="image" src="https://user-images.githubusercontent.com/98285249/166950155-6bc6a910-c5b0-4682-b8f3-f2962e136870.png">
 
 ---
 
@@ -46,15 +54,6 @@ Project 2: helped client to find best fit companies for acquisition
 
 <img width="979" alt="image" src="https://user-images.githubusercontent.com/98285249/161794648-37a2669a-4578-4734-a4e1-a0e22445ea90.png">
 
-
----
-
-_**[ESG Projects](/pdf/analysis_report-3.pdf)**_  
-
-Using Bloomberg Terminal to build raw data
-Using python to do the relation analysis between ESG score and financial performance
-
-<img width="537" alt="image" src="https://user-images.githubusercontent.com/98285249/166950155-6bc6a910-c5b0-4682-b8f3-f2962e136870.png">
 
 ---
 
