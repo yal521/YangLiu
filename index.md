@@ -29,7 +29,7 @@ _**[Natural language processing 10-Ks to identify risks](10k_nlp_covid)**_
 
 
   
-_**[Regression Practice](analysis_report)**_
+_**[Regression Practice](regression)**_
 
 Practice how to understand original data set and build data fit regression model
 
@@ -38,7 +38,7 @@ Practice how to understand original data set and build data fit regression model
 
 ---
 
-_**[Consulting Projects](/pdf/sample_presentation.pdf)**_  
+_**[Consulting Projects](/pdf/us-eri-renewable-energy-outlook-2022.pdf)**_  
 
 Project 1: helped client to understand whether small firms is target customer or not
 
