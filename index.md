@@ -9,6 +9,8 @@ Expected graduation: August 2022
 <p style="text-align:center;">
   <img class="img-circle" src="https://raw.githubusercontent.com/yal521/YangLiu/master/images/lehigh.jpg-702x336.jpg"
 width="50%">
+  <img class="img-circle" src="https://raw.githubusercontent.com/yal521/YangLiu/master/images/UC.jpg"
+width="50%">
 </p>
 ---
 
