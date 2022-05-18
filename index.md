@@ -31,7 +31,7 @@ _**[Natural language processing 10-Ks to identify risks](analysis_report-2)**_
   
 _**[Regression Practice](regression)**_
 
-A regression assignment from [Lehigh class on data science for finance (FIN377)](ledatascifi.github.io).
+A regression assignment from [Lehigh class on data science for finance (FIN377)](https://ledatascifi.github.io).
 
 <img width="851" alt="image" src="https://user-images.githubusercontent.com/98285249/161793059-0d3a1a80-e576-47b4-92c6-0a5a16b62dd8.png">
 
