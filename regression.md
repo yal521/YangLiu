@@ -65,23 +65,6 @@ housing_train.columns
 housing_train.describe().T.head()
 ```
 
-
-
-
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -271,12 +254,6 @@ vars_to_check = ['v_MS_SubClass', 'v_Lot_Frontage', 'v_Lot_Area', 'v_Overall_Qua
 outlier_report(e,vars_to_check,thres=4)
 ```
 
-
-<style type="text/css">
-#T_69029_row0_col11, #T_69029_row0_col12, #T_69029_row1_col11, #T_69029_row1_col12, #T_69029_row2_col11, #T_69029_row2_col12, #T_69029_row3_col10, #T_69029_row3_col11, #T_69029_row3_col12, #T_69029_row4_col11, #T_69029_row4_col12, #T_69029_row5_col11, #T_69029_row5_col12, #T_69029_row6_col11, #T_69029_row6_col12, #T_69029_row7_col11, #T_69029_row7_col12, #T_69029_row8_col11, #T_69029_row8_col12, #T_69029_row9_col11, #T_69029_row9_col12, #T_69029_row10_col11, #T_69029_row10_col12, #T_69029_row11_col10, #T_69029_row11_col11, #T_69029_row11_col12, #T_69029_row12_col11, #T_69029_row12_col12, #T_69029_row13_col11, #T_69029_row13_col12, #T_69029_row14_col10, #T_69029_row14_col11, #T_69029_row14_col12, #T_69029_row15_col11, #T_69029_row15_col12, #T_69029_row16_col11, #T_69029_row16_col12, #T_69029_row17_col11, #T_69029_row17_col12, #T_69029_row18_col11, #T_69029_row18_col12, #T_69029_row19_col11, #T_69029_row19_col12, #T_69029_row20_col11, #T_69029_row20_col12, #T_69029_row21_col11, #T_69029_row21_col12, #T_69029_row22_col3, #T_69029_row22_col10, #T_69029_row22_col11, #T_69029_row22_col12, #T_69029_row23_col11, #T_69029_row23_col12, #T_69029_row24_col3, #T_69029_row24_col12 {
-  background-color: red;
-}
-</style>
 <table id="T_69029_">
   <thead>
     <tr>
@@ -913,10 +890,6 @@ outlier_report(e,vars_to_check,thres=4)
 ```
 
 
-
-
-<style type="text/css">
-</style>
 <table id="T_d919a_">
   <thead>
     <tr>
@@ -1144,17 +1117,10 @@ To my surprise, house with severe slope may have higher mean price and people ma
 
 **Run these regressions on the RAW data, even if you found data issues that you think should be addressed.**
 
-_Insert cells as needed below to run these regressions. Note that $i$ is indexing a given house, and $t$ indexes the year of sale._ 
+_Insert cells as needed below to run these regressions. Note that i is indexing a given house, and t indexes the year of sale._ 
 
-1. $\text{Sale Price}_{i,t} = \alpha + \beta_1 * \text{v_Lot_Area}$
-1. $\text{Sale Price}_{i,t} = \alpha + \beta_1 * log(\text{v_Lot_Area})$
-1. $log(\text{Sale Price}_{i,t}) = \alpha + \beta_1 * \text{v_Lot_Area}$
-1. $log(\text{Sale Price}_{i,t}) = \alpha + \beta_1 * log(\text{v_Lot_Area})$
-1. $log(\text{Sale Price}_{i,t}) = \alpha + \beta_1 * \text{v_Yr_Sold}$
-1. $log(\text{Sale Price}_{i,t}) = \alpha + \beta_1 * (\text{v_Yr_Sold==2007})+ \beta_2 * (\text{v_Yr_Sold==2008})$
-1. Choose your own adventure: Pick any five variables from the dataset that you think will generate good R2. Use them in a regression of $log(\text{Sale Price}_{i,t})$ 
-    - Tip: You can transform/create these five variables however you want, even if it creates extra variables. For example: I'd count Model 6 above as only using one variable: `v_Yr_Sold`.
-    - I got an R2 of 0.877 with just "5" variables. How close can you get? I won't be shocked if someone beats that!
+<img width="782" alt="image" src="https://user-images.githubusercontent.com/98285249/169089282-0792e363-f1c0-4fcc-a509-09979fe56d43.png">
+
     
 
 **Bonus formatting trick:** Instead of reporting all regressions separately, report all seven regressions in a _single_ table using `summary_col`.
@@ -1319,21 +1285,10 @@ print(summary_col(results=[reg1,reg2,reg3,reg4,reg5,reg6,reg7], # list the resul
 
 ## Part 3: Regression interpretation
 
-_Insert cells as needed below to answer these questions. Note that $i$ is indexing a given house, and $t$ indexes the year of sale._ 
+_Insert cells as needed below to answer these questions. Note that i is indexing a given house, and t indexes the year of sale._ 
 
-1. If you didn't use the `summary_col` trick, list $\beta_1$ for Models 1-6 to make it easier on your graders.
-1. Interpret $\beta_1$ in Model 2. 
-1. Interpret $\beta_1$ in Model 3. 
-    - HINT: You might need to print out more decimal places. Show at least 2 non-zero digits. 
-1. Of models 1-4, which do you think best explains the data and why?
-1. Interpret $\beta_1$ In Model 5
-1. Interpret $\alpha$ in Model 6
-1. Interpret $\beta_1$ in Model 6
-1. Why is the R2 of Model 6 higher than the R2 of Model 5?
-1. What variables did you include in Model 7?
-1. What is the R2 of your Model 7?
-1. Speculate (not graded): Could you use the specification of Model 6 in a predictive regression? 
-1. Speculate (not graded): Could you use the specification of Model 5 in a predictive regression? 
+<img width="756" alt="image" src="https://user-images.githubusercontent.com/98285249/169089552-50960cc1-caa3-450d-9c29-5c66c0d34700.png">
+
 
 
 The increase is based on the mean lot size (180284.77 square feet) and the mean sale price (182033.23 dollars)
